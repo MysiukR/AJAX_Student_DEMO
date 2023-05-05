@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <PLACE>
+    <NUMBER>1</NUMBER>
+    <NAME>Bob Dylan</NAME>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <DATE>10 Apr</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>2</NUMBER>
+    <NAME>Bonnie Tyler</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS Records</COMPANY>
+    <DATE>9 May</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>Greatest Hits</NUMBER>
+    <NAME>Dolly Parton</NAME>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>RCA</COMPANY>
+    <DATE>18 Jun</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>Still got the blues</NUMBER>
+    <NAME>Gary Moore</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Virgin records</COMPANY>
+    <DATE>20 Jul</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>Eros</NUMBER>
+    <NAME>Eros Ramazzotti</NAME>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>BMG</COMPANY>
+    <DATE>1 Oct</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>One night only</NUMBER>
+    <NAME>Bee Gees</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <DATE>3 Apr</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>1</NUMBER>
+    <NAME>Dr.Hook</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS</COMPANY>
+    <DATE>8 Feb</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>2</NUMBER>
+    <NAME>Rod Stewart</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Pickwick</COMPANY>
+    <DATE>8 Feb</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>4</NUMBER>
+    <NAME>Andrea Bocelli</NAME>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <DATE>3 Apr</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>2</NUMBER>
+    <NAME>Percy Sledge</NAME>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Atlantic</COMPANY>
+    <DATE>7 May</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>3</NUMBER>
+    <NAME>Savage Rose</NAME>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>Mega</COMPANY>
+    <DATE>19 Jan</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>2</NUMBER>
+    <NAME>Many</NAME>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Grammy</COMPANY>
+    <DATE>20 May</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>3</NUMBER>
+    <NAME>Kenny Rogers</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Mucik Master</COMPANY>
+    <DATE>7 Jun</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>1</NUMBER>
+    <NAME>Will Smith</NAME>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <DATE>10 Jun</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>4</NUMBER>
+    <NAME>Van Morrison</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <DATE>20 May</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>4</NUMBER>
+    <NAME>Jorn Hoel</NAME>
+    <COUNTRY>Norway</COUNTRY>
+    <COMPANY>WEA</COMPANY>
+    <DATE>9 Jul</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>3</NUMBER>
+    <NAME>Cat Stevens</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Island</COMPANY>
+    <DATE>8 July</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>4</NUMBER>
+    <NAME>Sam Brown</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>A and M</COMPANY>
+    <DATE>3 Jun</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>3</NUMBER>
+    <NAME>T'Pau</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Siren</COMPANY>
+    <DATE>13 Jun</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>4</NUMBER>
+    <NAME>Tina Turner</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Capitol</COMPANY>
+    <DATE>1 Jan</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>2</NUMBER>
+    <NAME>Kim Larsen</NAME>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>Medley</COMPANY>
+    <DATE>3 May</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>3</NUMBER>
+    <NAME>Luciano Pavarotti</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>DECCA</COMPANY>
+    <DATE>3 Apr</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>The dock of the bay</NUMBER>
+    <NAME>Otis Redding</NAME>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Stax Records</COMPANY>
+    <DATE>4 Apr</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>4</NUMBER>
+    <NAME>Simply Red</NAME>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>Elektra</COMPANY>
+    <DATE>7 June</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>5</NUMBER>
+    <NAME>The Communards</NAME>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>London</COMPANY>
+    <DATE>7 Jun</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+  <PLACE>
+    <NUMBER>3</NUMBER>
+    <NAME>Joe Cocker</NAME>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>EMI</COMPANY>
+    <DATE>20 May</DATE>
+    <STATUS>booked</STATUS>
+  </PLACE>
+</CATALOG>
